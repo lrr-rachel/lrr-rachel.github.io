@@ -15,7 +15,7 @@ I completed my BSc in Computer Science and my MSc in Data Science (with Disticti
 My research mainly focuses on the analysis and development of techniques for enhancing low-light videos, including denoising, colourisation, contrast enhancement, and content manipulations. My work has been funded by the UKRI [MyWorld](https://www.myworld-creates.com/) Strength in Places Programme. 
 
 ## News
-- 06 June 2024: “A SPATIO-TEMPORAL ALIGNED SUNET MODEL FOR LOW-LIGHT VIDEO ENHANCEMENT” is accepted by ICIP 2024. 
+- 06 June 2024: “A SPATIO-TEMPORAL ALIGNED SUNET MODEL FOR LOW-LIGHT VIDEO ENHANCEMENT” accepted by ICIP 2024. 
 
 
 ## Recent Work
